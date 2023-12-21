@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "abcff87a-7434-43c5-bfde-b6999c2931bc"
+      }
+    },
+    "owner": "annagor"
   }
 }
